@@ -26,3 +26,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fung1117&show_icons=true&locale=en&layout=donut" alt="fung1117" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fung1117&show_icons=true&locale=en" alt="fung1117" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fung1117&" alt="fung1117" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Fung1117&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
