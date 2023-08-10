@@ -47,3 +47,7 @@
 <h3 align="left">🔝 Top Contributed Repo </h3>
   
 ![](https://github-contributor-stats.vercel.app/api?username=Fung1117&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+![snake gif](https://github.com/Fung1117/Fung1117/blob/output/github-contribution-grid-snake.gif)
+
+
