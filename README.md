@@ -9,16 +9,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fung1117&label=Profile%20views&color=0e75b6&style=flat" alt="fung1117" /> </p>
 
-- 🔭 I’m currently working on [A](A)
+- 🔭 I’m currently working on [web-development](https://github.com/Fung1117/web-development)
 
-- 🌱 I’m currently learning **D**
+- 🌱 I’m currently learning **Machine Learning**
 
 <!--
 - 👯 I’m looking to collaborate on [B](B)
 
 - 🤝 I’m looking for help with [C](C)
 -->
-- 💬 Ask me about **E**
+- 💬 Ask me about **html , css and js**
 
 - 📫 How to reach me **u3592828@connect.hku.hk**
 
