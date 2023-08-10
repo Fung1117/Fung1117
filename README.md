@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with [C](C)
 -->
-- 💬 Ask me about **html , css and js**
+- 💬 Ask me about **html, css and js**
 
 - 📫 How to reach me **u3592828@connect.hku.hk**
 
