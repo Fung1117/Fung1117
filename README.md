@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fung1117&label=Profile%20views&color=0e75b6&style=flat" alt="fung1117" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fung1117&label=Profile%20views&color=0e75b6&style=flat" alt="fung1117" /> <a href="https://github.com/fung1117/fung1117"><img src="https://img.shields.io/github/last-commit/fung1117/fung1117?label=profile%20updated&style=flat-square"></a> </p>
 
 - 🔭 I’m currently working on [web-development](https://github.com/Fung1117/web-development)
 
