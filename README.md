@@ -27,6 +27,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/king-fung-pun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/pun king fung" height="30" width="40" /></a>
+<a href="https://kaggle.com/punkingfung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pun king fung" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/u3592828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="u3592828" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@fung1117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@fung1117" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u3592828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u3592828" height="30" width="40" /></a>
 </p>
 
