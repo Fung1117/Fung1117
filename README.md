@@ -51,6 +51,15 @@
 
 ### 📈 My GitHub Contributions
 
-![snake svg](https://github.com/Fung1117/Fung1117/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
 
